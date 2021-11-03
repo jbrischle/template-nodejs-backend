@@ -1,0 +1,14 @@
+# IDE - Intellij
+/.idea
+*.iml
+# IDE - VSCode
+.vscode/*
+.history/*
+
+# NPM
+/node_modules
+**/node_modules/
+target/
+
+# Java
+/target
